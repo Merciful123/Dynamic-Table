@@ -1,3 +1,5 @@
+// This is Table contents 
+
 
 export var heading = ["Feature", "Silver", "Gold", "Platinum"]
 export var feature1 = ["Storage/GB", "100", "1000", "10000"]

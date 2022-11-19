@@ -1,34 +1,23 @@
 .items {
-    background-color: rgb(215, 235, 232);
-    display: flex;
-    height: 90vh;
-    width: 50vw;
-    /* font-size: calc(10px + 2vmin); */
-    color: rgb(55, 52, 52);
-    border: 2px solid rgb(208, 208, 163);
-    border-left: 4px solid rebeccapurple;
-    margin: 0 auto;
-    margin-top: 20px;
-    /*Margin set it to avoid conflicts between cross-browser default margins*/
+  background-color: rgb(215, 235, 232);
+  display: flex;
+  height: 90vh;
+  width: 540px;
+  color: rgb(55, 52, 52);
+  border: 2px solid rgb(208, 208, 163);
+  border-left: 4px solid rebeccapurple;
+  margin: 0 auto;
+  margin-top: 20px;
 }
 
 table {
-    width: 50vw;
-    /* flex-wrap: wrap; */
+  width: 540px;
 }
 
 td {
-    padding: 30px;
-    /* border: 1px solid rgb(173, 168, 168); */
+  padding: 30px;
 }
 
 th {
-    /* border: 1px solid rgb(173, 168, 168); */
-    color: rebeccapurple;
+  color: rebeccapurple;
 }
-
-
-/* 
-.heading {
-    background-color: rgb(164, 213, 204);
-} */
